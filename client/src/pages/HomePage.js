@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { Form, Input, message, Modal, Select, Table, DatePicker,ConfigProvider} from "antd";
+import { Form, Input, message, Modal, Select, Table, DatePicker} from "antd";
 import Layout from "../components/Layout/Layout";
 import axios from "axios";
 import Spinner from "../components/Spinner";
