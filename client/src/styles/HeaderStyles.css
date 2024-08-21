@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+.navbar {
+  background-color: #6f4e3742 !important;
+}
+.navbar .navbar-brand {
+  color: black !important;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-left: 6rem;
+}
+.icon{
+  margin-right: 4rem;
+}
+.end{
+  margin-right: 7rem;
+  margin-top: 1rem;
+}
+.user{
+  font-weight: 600;
+  
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.cry{
+  font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar h6 {
+  margin-top: 0px;
+  margin-right: 20px;
+}
